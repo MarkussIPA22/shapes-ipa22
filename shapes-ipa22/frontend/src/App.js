@@ -8,7 +8,7 @@ function App () {
     }
     getData();
   });
-  return <h1>Hi from frontend</h1>
+  return <h1>Hi from frontend</h1>;
 
 }
 
